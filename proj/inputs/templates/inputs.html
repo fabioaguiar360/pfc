@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Inputs</title>
+</head>
+<body>
+<h1>Inputs</h1>
+<h2>Inputs of this mounth</h2>
+<ul>
+    {% for input in inputs %}
+    <li> <pre>{{ input.name }} </pre> <pre>{{ input.category }}</pre> {{input.value }} </li>
+    {% endfor %}
+</ul>
+
+</body>
+</html>
