@@ -9,5 +9,5 @@ You will have inputs, outputs also balance categorized.
 I don't know yet, but if I have patience, could have a pie chart or something like that (we'll see ;) )
 
 06/20/2019
-Today I created to simple apps (Categories and Inputs).
+Today I created two simple apps (Categories and Inputs).
 Keep in mind that it's for learning porpouses. I know that there are a bunch of things to increase, but for now that's it ;)
