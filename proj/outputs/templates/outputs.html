@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Outputs</title>
+</head>
+<body>
+<h1>Outputs</h1>
+<h2>Outputs of this mounth</h2>
+<ul>
+    {% for output in outputs %}
+    <li> <pre>{{ output.name }} </pre> <pre>{{ output.category }}</pre> {{output.value }} </li>
+    {% endfor %}
+</ul>
+
+</body>
+</html>
