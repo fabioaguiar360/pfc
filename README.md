@@ -11,3 +11,6 @@ I don't know yet, but if I have patience, could have a pie chart or something li
 06/20/2019
 Today I created two simple apps (Categories and Inputs).
 Keep in mind that it's for learning porpouses. I know that there are a bunch of things to increase, but for now that's it ;)
+
+06/21/2019
+Today I created OUTPUTS app already with relationship with category.In aditional was changed the app INPUTS to have also relationship with category. For this I deleted the DB and rebuilded it. It was necessary (not necessary but it was easier to do) because the table inputs already had some rows and the field "category" was not empty and this genetered some conflicts.
